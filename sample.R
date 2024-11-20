@@ -5,3 +5,4 @@ sample_data2 <- 1:20
 sample_data3 <- 1:30
 sample_data4 <- 1:40
 sample_data5 <- 1:50
+sample_data6 <- 1:60
